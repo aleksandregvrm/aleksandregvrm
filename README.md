@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Payment Gateway Service**
 
+- ⭐ 3+ years of experience in software development
+
 - 🌱 I’m currently learning **Kubernetes,Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandregvrm](https://github.com/aleksandregvrm)
