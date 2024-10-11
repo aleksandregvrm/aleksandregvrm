@@ -5,6 +5,8 @@
 
 - ⭐ 3+ years of experience in software development
 
+- 🖥️ Including various fields in Backend,Frontend and Devops
+
 - 🌱 I’m currently learning **Kubernetes,Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandregvrm](https://github.com/aleksandregvrm)
