@@ -13,9 +13,5 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aleksandre-gvaramia-079b31282/](https://www.linkedin.com/in/aleksandre-gvaramia-079b31282/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aleksandre gvaramia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandre gvaramia" height="30" width="40" /></a>
-</p>
 
 
