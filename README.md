@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandre Gvaramia</h1>
 <h3 align="center">Fullstack developer from Georgia</h3>
 
-- ⭐ 3+ years of experience in software development
+- ⭐ 3+ years into software development
 
 - 🖥️ Including various fields in Backend,Frontend and Devops
 
