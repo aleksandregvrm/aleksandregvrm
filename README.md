@@ -3,7 +3,7 @@
 
 - ⭐ 3+ years into software development
 
-- 🖥️ Including various fields in Backend,Frontend and Devops
+- 🖥️ Including various fields in Software Engineering
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandregvrm](https://github.com/aleksandregvrm)
 
